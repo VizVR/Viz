@@ -1,11 +1,10 @@
-# Project Athena 
+# VIZ
 
 ### What is this?
 
-Project Athena is a 3D social software project seeking to incrementally bring about a truly free and open metaverse, in desktop and XR.
+VIZ is a 3D social software project seeking to incrementally bring about a truly free and open metaverse, in desktop and XR.
 
-### [Download](https://projectathena.io/download-athena/)
-
+### [Download]
 ### Releases
 
 #### v0.86.0 K2 (TBD)
@@ -22,13 +21,6 @@ Check out the releases page for more information!
 * Entity Script Whitelist, no scripts are whitelisted by default.
 * Background CMD outputs full log, instant close of application on closing of the CMD-line.
 
-### How to build the Interface
-
-[For Windows](https://github.com/kasenvr/project-athena/blob/kasen/core/BUILD_WIN.md)
-
-[For Linux](https://github.com/kasenvr/project-athena/blob/kasen/core/BUILD_LINUX.md)
-
-[For Linux - Athena Builder](https://github.com/daleglass/athena-builder)
 
 ### Boot to Metaverse: The Goal
 
@@ -52,6 +44,4 @@ We need to do the best we can with what we've got and our best bet as open sourc
 
 ### Contribution
 
-A special thanks to the contributors of the Project Athena.
-
-[Contribution](CONTRIBUTING.md)
+A special thanks to the contributors.
